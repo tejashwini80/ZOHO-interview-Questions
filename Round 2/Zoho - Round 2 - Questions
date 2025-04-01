@@ -261,7 +261,7 @@ O/P: 50856
 input : aaabbcc
 output : abc
 
-37. Evaluate the expression and sort and print the output. Getting the input is the tricky part
+37. Evaluate the expression and sort and print the output. Getting the input is the tricky part 👍
 Input:
 Number of input : 4
 2*3
@@ -283,7 +283,7 @@ Output :
 
 39. Given a 5X5 chess board as input. 9 knights are placed in the board. Print whether the configuration valid or Invalid.
 
-40. Given a number, print all the code that can be formed with z={a=1, .., z=26}.
+40. Given a number, print all the code that can be formed with z={a=1, .., z=26}. 👍
 1123
 {1, 1, 2, 3} = aabc
 {11, 2, 3} = kbc
